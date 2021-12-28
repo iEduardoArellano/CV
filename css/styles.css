@@ -1,0 +1,29 @@
+palette{
+  color: #E63946;
+  color: #F1FAEE;
+  color: #A8DADC;
+  color: #457B9D;
+  color: #1D3557;
+}
+
+body{
+  background-color: #F1FAEE;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #A8DADC;
+  border-width: 5px;
+  width: 5%;
+}
+
+h3{
+  font-family: sans-serif, arial, helvetica;
+  color: #457B9D;
+}
+
+h1{
+  font-family: sans-serif, arial, helvetica;
+  color: #457B9D;
+}
